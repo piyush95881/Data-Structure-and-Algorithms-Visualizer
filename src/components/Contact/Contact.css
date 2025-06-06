@@ -1,0 +1,19 @@
+.contact-container {
+    padding: 2rem;
+    background-color: #121212;
+    color: white;
+    min-height: 100vh;
+}
+
+.contact-container h1 {
+    color: #02ffe7;
+}
+
+.contact-container a {
+    color: #02ffe7;
+    text-decoration: none;
+}
+
+.contact-container a:hover {
+    text-decoration: underline;
+}
